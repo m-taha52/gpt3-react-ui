@@ -21,8 +21,8 @@ https://react-tech-ui.netlify.app/
 - Open Source
 
 ## Screenshots
+<img src="https://ibb.co/n8MgDm6" alt="Screenshot" 
 
-![App Screenshot](https://ibb.co/n8MgDm6)
 
 
 ## License
