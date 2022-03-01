@@ -21,7 +21,7 @@ https://react-tech-ui.netlify.app/
 - Open Source
 
 ## Screenshots
-![GPT3](https://ibb.co/n8MgDm6)
+![GPT3](https://i.ibb.co/Wpvxc5G/Frame-1-1.png)
 
 ## License
 
